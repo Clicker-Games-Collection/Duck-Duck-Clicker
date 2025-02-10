@@ -6,7 +6,7 @@ Step into the charming world of **Duck Duck Clicker**, where clicking on adorabl
 
 This delightful game combines simplicity with fun, allowing players to immerse themselves in a whimsical experience filled with customization and engagement.
 
-![Spacebar Clicker](https://game.playclickergames.org/202502091911860.jpeg)
+![Duck Duck Clicker](https://game.playclickergames.org/202502091911860.jpeg)
 
 ## How to Play
 
